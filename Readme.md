@@ -2,8 +2,6 @@
 
 VIPchakra is a solution that protects Very Important Persons (VIPs) from online threats and misinformation by using a full-stack application and machine learning.
 
----
-
 ## Tech Stack
 
 **Frontend:** React, Tailwind CSS
@@ -19,9 +17,8 @@ VIPchakra is a solution that protects Very Important Persons (VIPs) from online 
 
 **Other Tools:** Various Python libraries for NLP, data processing, and threat detection
 
----
 
-## ⚡ How to Run
+## How to Run
 
 ### Start the Frontend
 
@@ -44,15 +41,12 @@ cd ml_services
 uvicorn app:app --reload --port 8001
 ```
 
----
-
 ## VIP Registration and Dashboard
 
 * **VIP Registration:** A VIP registers using an OTP-based authentication process.
 * **Secure Details:** The VIP provides sensitive details and 3–5 high-quality images. This information is stored securely to enable the system's monitoring capabilities.
 * **Personalized Dashboard:** Each registered VIP receives their own dashboard that provides a real-time feed of all flagged content and threats.
 
----
 
 ## Core Features
 
@@ -64,8 +58,6 @@ uvicorn app:app --reload --port 8001
 * **User Flagging:** Flags user accounts that consistently share problematic content.
 * **Manual Report Button:** Allows users to report posts flagged incorrectly by the model.
 * **Email Notifications:** The system sends an immediate email notification whenever flagged content or images related to a registered VIP are detected.
-
----
 
 ## Team
 
