@@ -4,19 +4,15 @@ VIPchakra is a solution that protects Very Important Persons (VIPs) from online 
 
 ## Tech Stack
 
-**Frontend:** React, Tailwind CSS
-**Backend:** Node.js, Express (MERN stack)
-**Machine Learning / AI:**
-
-* Python
-* YOLO (object detection)
-* DeepFace (face recognition)
-* pHash (image hashing / similarity detection)
-* Sentence-BERT (semantic similarity / NLP embeddings)
-* Regex & Named Entity Recognition (NER) with spaCy
-
-**Other Tools:** Various Python libraries for NLP, data processing, and threat detection
-
+1. **Frontend:** React, Tailwind CSS
+2. **Backend:** Node.js, Express (MERN stack)
+3. **Machine Learning / AI:**
+    * Python
+    * YOLO (object detection)
+    * DeepFace (face recognition)
+    * pHash (image hashing / similarity detection)
+    * Sentence-BERT (semantic similarity / NLP embeddings)
+    * Regex & Named Entity Recognition (NER) with spaCy
 
 ## How to Run
 
