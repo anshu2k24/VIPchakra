@@ -61,5 +61,5 @@ VIPchakra primarily focuses on detecting and flagging threats to VIPs in content
 
 ## Team
 
-* **Anshu P:** Backend, ML services, threat detection, data analysis, overall architecture  
-* **Dhruva Kr:** Frontend, UI/UX, dashboard, visualization
+* **Anshu P (https://github.com/anshu2k24):** Backend, ML services, threat detection, data analysis, overall architecture  
+* **Dhruva Kr (https://github.com/Dhruva-0812):** Frontend, UI/UX, dashboard, visualization
